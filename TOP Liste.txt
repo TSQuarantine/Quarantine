@@ -1,0 +1,9 @@
+TOP						Leute		erledigt
+
+Spielname					alle		[]
+Grobstory					alle		[]
+Protagonist					alle		[]
+NPCs						alle		[]
+WAs macht unser Spiel spannend?			alle		[]
+Mehrere Sprachen ja/nein			alle		[]
+Welche Programmstruktur				alle		[]
