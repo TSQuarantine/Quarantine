@@ -1,0 +1,58 @@
+TOP	Stand 25.05.2014
+
+					
+0.Grobe Aufgabenverteilung
+	Projektleiter: Phillip
+	Grafikdesign: Tim
+	Menudesign/Layout: Chris (potentiell Phillip fur Umsetzung)
+	Engine: Phillip, Flo, (Tobi??(Teilnahme unklar))
+	Sound: Flo
+	Dialog : Input von jedem erlaubt und erwunscht
+
+
+1.Spielname
+	Volaufiger Name: Quarantine 
+	Andere Vorschlage: Spread, Virus, 
+
+
+2.Grobstory					
+	Praambel: unbekannter todlicher/gefahrlicher Virus bricht aus
+	Vorschlag Tim: 
+		>Regierung beschliest Infizierte zu toten
+		>Protagonist Teil eines Beseitigungskommandos
+		>Wird infiziert
+		>muss fliehen und begibt sich in Wiederstandsbewegung von Infizierten
+	Vorschlag Flo:
+		>Regierung errichtet Quarantanezonen
+		>Protagonist wird eingewiesen
+		>Findet heraus Regierung will alle in Quarantanezone toten
+		>Fluchtversuch
+
+
+3.Ordnerstruktur und andere Standards		
+	Geschachtelte Ordnerstruktur: Sachen unter Oberbegriffen in Ordner einordnen
+	Sprechende Namen fur Dinge verwenden und Kommentare schreiben um Unklarheiten vorzubeugen
+
+
+4.Welche Programmstruktur
+	Nicht eine grose Klasse, sondern aus kleinen Klassen zusammengebaut die individuelle
+	Aufgaben erfullen
+	
+
+5.Protagonist
+	Mannlich
+	Mittleres Alter bzw. durchschnittlicher Mensch/ keine Beruhmtheit
+
+
+6.Gameplay
+	Startropics-esques Gameplay mit Openworld Mechanik und verandertem Inventarsystem
+
+
+7.Mehrere Sprachen ja/nein			
+	Furs erste in Englisch, aber wir schreiben so dass man durch andere Sprachen einfach
+	erweitern kann
+
+
+
+
+			
