@@ -17,7 +17,7 @@ class Intro
   {
     JFrame f = new JFrame();
     JPanel p = new JPanel(new GridLayout(1,1));
-    JLabel l = new JLabel(makeIcon("TS dark"));
+    JLabel l = new JLabel(makeIcon("TS"));
     p.add(l);
     p.setBackground(Color.black);
     f.getContentPane().add(p);
