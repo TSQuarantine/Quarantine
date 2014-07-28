@@ -1,0 +1,33 @@
+1. Paar konkretere Aufgaben:
+	-Tim: entwerfen erster character modelle
+	-Henker: Hauptmenue Entwurfe
+	-Flo: Hauptmenuetheme
+
+2. Entscheidung ueber Story:
+	-Vorschlag Flo wurde genommen
+
+3. Stimmung des Spiels:
+	-Endzeit maessig/ Fallout als Referenz
+	-Immer im Kopf behalten bei Gestaltung unterschiedlicher Ressourcen
+
+4. Hauptmenue Design:
+	-Funktionen: New game, load game, Options, Quit
+	-Design einzelner Menue Teile muss entworfen werden, dass sie wie ein
+	 Baukasten zum Menueaufbau genutzt werden koennen
+
+5. Speichern: 
+	-Manuelle saves und storytechnische autosaves
+
+6. Sound:
+	-Soundfiles in unterschiedliche Kategorien
+	-Standard Soundregler furs erste
+
+7. http://libgdx.badlogicgames.com/
+
+8. NPCs haben eine Interaktions Funktion, die zu sprechen oder anderem fuehrt
+
+9. Inventar 
+	-Value Prinzip (items haben bestimmte value und wenn alle items 
+	 ueber eine bestimmte value gehen passt halt nix mehr ins inventar)
+
+Phillip ist ein Handy
